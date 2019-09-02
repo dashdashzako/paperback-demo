@@ -1,6 +1,5 @@
 ---
 title: "The Benefits of Static"
-date: 2019-09-02T10:29:13+02:00
-draft: true
+date: 2017-09-02T10:35:13+02:00
+draft: false
 ---
-
