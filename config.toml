@@ -1,3 +1,8 @@
 baseURL = "https://dashdashzako.github.io/paperback-demo/"
 languageCode = "en-us"
 title = "Paperback Theme Showcase"
+
+[params]
+  AuthorName = "dashdashzako"
+  GithubUsername = "dashdashzako"
+  mainSections = ["post"]
