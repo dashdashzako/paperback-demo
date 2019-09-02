@@ -1,8 +1,11 @@
 baseURL = "https://dashdashzako.github.io/paperback-demo/"
 languageCode = "en-us"
 title = "Paperback Theme Showcase"
+theme = "paperback"
+disableKinds = ["taxonomyTerm"]
 
 [params]
   AuthorName = "dashdashzako"
   GithubUsername = "dashdashzako"
+  Tagline = "Minimalist theme for Hugo"
   mainSections = ["post"]
