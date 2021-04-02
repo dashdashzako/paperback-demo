@@ -2,7 +2,7 @@ baseURL = "https://dashdashzako.github.io/paperback-demo/"
 languageCode = "en-us"
 title = "Paperback Theme Showcase"
 theme = "paperback"
-disableKinds = ["taxonomyTerm"]
+disableKinds = ["section", "taxonomy", "term", "RSS"]
 
 [params]
   AuthorName = "dashdashzako"
